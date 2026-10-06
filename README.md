@@ -137,6 +137,7 @@ OSU_OAUTH_CLIENT_SECRET=xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 - 申请人答 `答案：peppy` → 查到规范用户名 `peppy` → 自动通过，群名片改为 `peppy`，群内欢迎
 - 申请人答 `答案：［ 408 ］` → 全角括号自动转半角 → 按 UID `408` 查到 `peppy` → 自动通过
 - 申请人答 `答案：我没有osu账号` → 查不到 → **保留申请**，不通过也不拒绝，等待管理员处理
+- 注：申请人实际不需要填写`答案：`字段
 
 ## 🔍 审核行为一览
 
